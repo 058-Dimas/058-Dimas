@@ -1,60 +1,65 @@
 <div align="center">
 
-<!-- Banner Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=220&section=header&text=%F0%9F%83%B4%20SELAMAT%20DATANG%20DI%20GRAND%20LINE%20SAYA&fontSize=30&fontColor=e2e8f0&animation=twinkle" width="100%" alt="Header Banner" />
+<!-- Header Banner dengan Peta Grand Line & Logo One Piece -->
+<a href="https://github.com/058-Dimas">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=260&section=header&text=%E2%98%A2%EF%B8%8F%20ONE%20PIECE%20%7C%20WELCOME%20TO%20MY%20GRAND%20LINE&fontSize=28&fontColor=f59e0b&animation=twinkle&subtext=Navigating%20the%20vast%20ocean%20of%20code%20towards%20the%20dream%20of%20skilled%20development&subfontSize=14&subfontColor=94a3b8" width="100%" alt="One Piece Grand Line Banner" />
+</a>
 
-# 🏴‍☠️️ [058-Dimas]
+# 🏴‍☠️ [Dimas]
 ### 🚀 Mahasiswa Teknik Informatika & Calon Software Developer
 
-*"Lautan teknologi sangat luas, tetapi dengan logika dan tim yang tepat, semua samudra bisa diarungi."*
+*"Lautan kode sangat luas, tetapi dengan logika dan semangat pantang menyerah, semua pulau tujuan bisa dicapai."*
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dimsprstya_)
-[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joyodiningratdimas@gmail..com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@dimsprstya_)
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joyodiningratdimas@gmail.com)
 
 ---
 
 </div>
 
-## 🏝️ Tentang Saya
+## 🏝️ Tentang Saya (About Me)
 
-Halo, Penjelajah! Saya adalah seorang **Mahasiswa Teknik Informatika** yang berdomisili di **[Pamekasan]**, saat ini sedang menempuh kuliah di **Semester [SEMESTER %]**. Saya fokus mempelajari pengembangan aplikasi web, arsitektur backend, dan terus mendalami pengembangan *full-stack software*.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Man%20Technologist.png" width="80" alt="Programmer Avatar" />
+</p>
 
-- 📍 **Domisili:** [Pamekasan], Indonesia
-- 🧭 **Fokus:** Web Development, Sistem Full-Stack & Arsitektur Basis Data
-- ⚡ **Fakta Unik:** Seperti Luffy yang mencari One Piece, saya sedang dalam perjalanan tanpa akhir untuk menemukan kode yang paling bersih dan sistem yang efisien.
+Halo, Penjelajah! Saya **[Dimas Prasetya Januardiansyah]**, seorang mahasiswa Teknik Informatika yang berdomisili di **[Pamekasan]**, saat ini sedang menempuh perkuliahan di **Semester [5]**. Saya fokus pada pengembangan aplikasi web, logika backend, dan arsitektur sistem.
+
+- 🎓 **Pendidikan:** S1 Teknik Informatika, [UNIVERISTAS MADURA]
+- 📍 **Domisili:** [PAMEKASAN], Indonesia
+- 🧭 **Fokus:** Web Development, Full-Stack System & Database Architecture
+- ⚡ **Fakta Unik:** Seperti Luffy yang mengarungi lautan demi One Piece, saya mengarungi baris kode demi menciptakan aplikasi yang bermanfaat.
 
 <br/>
 
 ## 🏫 Riwayat Pendidikan (Jalur Pelayaran)
 
-Berikut adalah riwayat pendidikan yang telah saya lalui dalam perjalanan ini:
-
 | Jenjang | Nama Sekolah / Perguruan Tinggi | Tahun |
 | :--- | :--- | :--- |
-| 🏫 **SD** | [SDN BULAY 2] |
+| 🏫 **SD** | [SDN BULLAY 2] |
 | 🏫 **SMP** | [SMPN 1 GALIS] |
 | 🏫 **SMA / SMK** | [MAN 2 PAMEKASAN] ([IPA-MULTIMEDIA]) |
-| 🎓 **S1** | **[UNIVERSITAS MADURA]** — Teknik Informatika |
+| 🎓 **S1** | **[UNIVERSITAS MADURA]** — Teknik Informatika | [2024] - Sekarang |
 
 <br/>
 
-## 🏴‍☠️ Kru Bajak Laut Saya (Kemampuan Utama)
+## 🏴‍☠️️ Kru Bajak Laut Saya (My Pirate Crew)
 
-Dalam perjalanan sebagai developer, setiap teknologi memiliki peran penting dalam mengarungi lautan digital:
+Dalam perjalanan sebagai programmer, setiap teknologi memiliki perannya masing-masing dalam tim:
 
-| Peran | Teknologi / Alat | Deskripsi |
+| Peran Crew | Teknologi / Alat | Fungsi & Deskripsi |
 | :--- | :--- | :--- |
-| **👑 Kapten** | **[Dimas Prasetya J.]** | Mengatur logika dan mengarahkan pengembangan proyek |
-| **⚔️ Petarung Depan (Frontend)** | `Svelte` `SvelteKit` `HTML5` `CSS3` `JavaScript` `TypeScript` | Merancang antarmuka pengguna yang interaktif dan modern |
-| **⚙️ Insinyur Mesin (Backend)** | `Node.js` `Express.js` | Membangun RESTful API dan logika server yang andal |
-| **🗄️ Navigator Data (Database)** | `MySQL` `SQL` | Mengelola basis data relasional dan integritas data |
-| **🐍 Pengintai Khusus** | `Python` | Membuat skrip, analisis data, dan otomatisasi |
-| **🧭 Navigasi & Kontrol** | `Git` `GitHub` | Manajemen versi kode dan kolaborasi tim |
+| **👑 Captain** | **[DIMAS]** | Menentukan arah, mengelola logika, dan menyelesaikan proyek |
+| **⚔️ Swordfighter (Frontend)** | `Svelte` `HTML5` `CSS3` `JavaScript` `TypeScript` | Merancang antarmuka visual yang tajam dan responsif |
+| **⚙️ Mechanic (Backend)** | `Node.js` `Express.js` | Membangun fondasi server, API, dan arsitektur sistem |
+| **🗄️ Doctor (Database)** | `MySQL` `SQL` | Mengelola integritas data dan kesehatan struktur basis data |
+| **🐍 Sniper (Special Skill)** | `Python` | Pemrosesan logika cepat, skrip otomatisasi, dan data |
+| **🧭 Navigator** | `Git` `GitHub` | Mengatur petunjuk arah dan manajemen versi kode (*version control*) |
 
 <br/>
 
-## 🛠️ Senjata & Teknologi Saya
+## 🛠️ Senjata & Teknologi (Tech Stack)
 
 <div align="left">
 
@@ -66,12 +71,12 @@ Dalam perjalanan sebagai developer, setiap teknologi memiliki peran penting dala
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-#### **Backend & Basis Data**
+#### **Backend & Database**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-#### **Alat & Lingkungan Kerja**
+#### **Tools & Environment**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
@@ -81,26 +86,10 @@ Dalam perjalanan sebagai developer, setiap teknologi memiliki peran penting dala
 
 <br/>
 
-## 🚢 Kapal Saya (Proyek Pilihan)
-
-*Saat ini sedang bersiap berlayar dan membangun armada proyek pertama! Nanti akan ditampilkan di sini.* ⚓
-
-<!-- 
-Format saat nanti menambahkan proyek baru:
-
-### 📦 Nama Proyek
-> **Deskripsi Singkat Proyek**
-* **Ringkasan:** Penjelasan mengenai aplikasi yang dibuat.
-* **Teknologi:** `SvelteKit` • `Express.js` • `MySQL`
-* 🔗 **[Lihat Repository](https://github.com/USERNAME/nama-repo)**
--->
-
-<br/>
-
-## 📜 Log Bajak Laut (Perjalanan Belajar)
+## 📜 Pirate Log (Peta Perjalanan)
 
 ```text
-🏝️ 2024 — Memasuki Grand Line: Mulai kuliah Teknik Informatika & belajar dasar pemrograman
-⚓ 2025 — Menguasai Basis Data & API: Mempelajari SQL, Express.js & Web Development
-🌊 2026 — Membangun Armada Full-Stack: Menyiapkan proyek-proyek aplikasi web & open source
-🏴‍☠️ Masa Depan — Mencapai Laugh Tale: Menjadi Full-Stack Software Engineer yang andal
+🏝️ 2024 — Pulau Awal (Start): Mulai perjalanan di Teknik Informatika & dasar pemrograman
+⚓ 2025 — Mengarungi Lautan: Menguasai Basis Data, Express.js, & Pemrograman Web
+🌊 2026 — Menuju Grand Line: Membangun proyek-proyek Full-Stack & kontribusi open source
+🏴‍☠️ Masa Depan — Laugh Tale: Menjadi Software Developer yang andal dan profesional
