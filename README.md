@@ -1,18 +1,22 @@
 <div align="center">
 
-<!-- Header Banner dengan Peta Grand Line & Logo One Piece -->
+<!-- Banner Gambar Peta Grand Line & One Piece Asli -->
 <a href="https://github.com/058-Dimas">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=260&section=header&text=%E2%98%A2%EF%B8%8F%20ONE%20PIECE%20%7C%20WELCOME%20TO%20MY%20GRAND%20LINE&fontSize=28&fontColor=f59e0b&animation=twinkle&subtext=Navigating%20the%20vast%20ocean%20of%20code%20towards%20the%20dream%20of%20skilled%20development&subfontSize=14&subfontColor=94a3b8" width="100%" alt="One Piece Grand Line Banner" />
+  <img src="https://raw.githubusercontent.com/Anandhu-K-S/GitHub-Profile-README-Assets/main/one-piece-banner.jpg" width="100%" alt="Welcome to My Grand Line" />
 </a>
 
-# 🏴‍☠️ [Dimas]
+# 🏴‍☠️ Dimas
 ### 🚀 Mahasiswa Teknik Informatika & Calon Software Developer
 
 *"Lautan kode sangat luas, tetapi dengan logika dan semangat pantang menyerah, semua pulau tujuan bisa dicapai."*
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@dimsprstya_)
-[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joyodiningratdimas@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/USERNAME)
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@domain.com)
+
+---
+
+</div>
 
 ---
 
