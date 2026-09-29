@@ -2,7 +2,7 @@
 
 <!-- Banner Gambar Peta Grand Line & One Piece Asli -->
 <a href="https://github.com/058-Dimas">
-  <img src="https://raw.githubusercontent.com/Anandhu-K-S/GitHub-Profile-README-Assets/main/one-piece-banner.jpg" width="100%" alt="Welcome to My Grand Line" />
+  <img src="https://raw.githubusercontent.com/Anandhu-K-S/GitHub-Profile-README-Assets/main/https://images.alphacoders.com/132/1328906.png" width="100%" alt="Welcome to My Grand Line" />
 </a>
 
 # 🏴‍☠️ Dimas
