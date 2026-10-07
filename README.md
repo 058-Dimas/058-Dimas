@@ -25,7 +25,6 @@
 ## 🏝️ Tentang Saya (About Me)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Man%20Technologist.png" width="80" alt="Programmer Avatar" />
 </p>
 
 Halo, Penjelajah! Saya **[Dimas Prasetya Januardiansyah]**, seorang mahasiswa Teknik Informatika yang berdomisili di **[Pamekasan]**, saat ini sedang menempuh perkuliahan di **Semester [5]**. Saya fokus pada pengembangan aplikasi web, logika backend, dan arsitektur sistem.
